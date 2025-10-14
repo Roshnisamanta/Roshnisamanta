@@ -22,7 +22,7 @@
 ---
 
 ### 📫 Connect With Me
-[LinkedIn](https:www.linkedin.com/in/roshni-samanta-2b9860273)
+[LinkedIn](https:www.linkedin.com/in/roshni-samanta)
 
 ---
 
