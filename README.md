@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Roshni Samanta 👋
 
-<!--
-**Roshnisamanta/Roshnisamanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 B.Tech Student @ PSIT | ☕ Java Developer | 🌐 Full Stack Learner  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 About Me
+🌱 Learning Full Stack Development (Spring Boot + Web)  
+💡 Exploring DSA in Java & backend development  
+🧠 Passionate about building user-focused projects  
+🎯 Projects: LegalCompass, Jewelry E-Commerce Website  
+⚡ Fun fact: I believe in "Learn, Build, Repeat." ✨  
+
+---
+
+### 🚀 Tech Stack
+**Languages:** Java • Python • HTML • CSS • JavaScript  
+**Frameworks:** Spring Boot  
+**Database:** MySQL  
+**Tools:** Git • GitHub • VS Code  
+
+---
+
+### 📫 Connect With Me
+[LinkedIn](https:www.linkedin.com/in/roshni-samanta-2b9860273)
+
+---
+
+⭐ *“Code with logic, design with passion, and build with purpose.”*
