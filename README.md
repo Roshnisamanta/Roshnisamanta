@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://leetcode.com/u/kunalkushwaha1806/" target="_blank">
+  <a href="https://leetcode.com/u/roshni--2004/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" alt="LeetCode" height="30" width="100" />
   </a>
   <a href="https://linkedin.com/in/roshni-samanta" target="_blank">
@@ -38,9 +38,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   
-  <!-- Added C, C++, Visual Studio Code, Git -->
+  <!-- Added java, C, Visual Studio Code, Git -->
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="java" width="40" height="40"/>
   </a>
   
   <a href="https://code.visualstudio.com/" target="_blank">
