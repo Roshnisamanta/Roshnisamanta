@@ -9,7 +9,7 @@
 </p>
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
-- 📫 How to reach me: **roshni.samanta.1985@gmail.com**
+- 📫 How to reach me: **2k23.psitaiml2311128@gmail.com**
 - ⚡ Fun fact: **I love solving real-world problems**
 
 <h3 align="left">Connect with me:</h3>
